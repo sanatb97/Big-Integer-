@@ -9,9 +9,8 @@ Library "intal", short for integer of arbitray length, a library of nonnegative 
 arbitrary length. The given header file "intal.h" declares the functionalities the library is 
 expected to provide except that there is no definition of the "intal" itself. That is left to
 the implementation file, which should declare the structure of the intal along with defining
-the functionalities declared in intal.h. Don't modify intal.h, all of your contribution must
-be limited to one file; intal.c. When you submit the intal.c, we are going to compile it with
-intal.h and a client file of our own to test the functionalities.
+the functionalities declared in intal.h. Don't modify intal.h, all of the contribution must
+be limited to one file; intal.c.
 
 Client treats an intal (an integer of arbitrary length) as an object pointed by a pointer "void*".
 An intal can be created by intal_create() by providing a char string of a nonnegative integer provided
