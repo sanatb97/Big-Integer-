@@ -2,7 +2,7 @@
 Big Integer class implemented in C
 Design and Analysis of Algorithms (DAA) - UE16CS251
 
-Problem Definition:
+<b>Problem Definition</b>:
 Develop a C-library of an integer of arbitrary length, let us call it as “intal” in short. The functionalities to be implemented in the library are declared in the header file given at the end of the document.
 
 Library "intal", short for integer of arbitray length, a library of nonnegative integers of 
